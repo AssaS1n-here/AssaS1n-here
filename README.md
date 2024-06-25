@@ -22,4 +22,4 @@
 <span>- Currently working as Security Tester 🕵🏼</span><br><br>
 <b><code>Certs</code><br><br>
 
-<img src=https://github.com/AssaS1n-here/AssaS1n-here/blob/main/Profile_Media/pentestplus_cert.png width="100" height="100"><img src=https://github.com/AssaS1n-here/AssaS1n-here/blob/main/Profile_Media/mcrta_cert.png width="100" height="100">
+<img src=https://github.com/AssaS1n-here/AssaS1n-here/blob/main/Profile_Media/pentestplus_cert.png width="100" height="100"><img src=https://github.com/AssaS1n-here/AssaS1n-here/blob/main/Profile_Media/mcrta_cert.png width="80" height="80">
